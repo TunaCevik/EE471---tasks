@@ -46,6 +46,4 @@ def pleaseConform(caps):
             print ('People in positions', t[0],
                    'through', t[1], 'flip your caps!')
                 
-            
-pleaseConform(caps)
-##pleaseConform(cap2)
+# Senior Dev: [Tuna Cevik]
